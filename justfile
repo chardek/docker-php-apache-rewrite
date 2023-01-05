@@ -1,6 +1,6 @@
 set positional-arguments := true
 
-tag := "7-apache"
+tag := "8-apache"
 
 _default:
   @just --choose
